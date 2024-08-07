@@ -1,0 +1,112 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family:"Young Serif",serif;
+}
+
+.section-one{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+.section-one__name{
+    font-size: 60px;
+}
+.section-one__role{
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.section-one__contact{
+    background-color: orange;
+    color: white;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 10px;
+}
+.container{
+    padding: 50px;
+}
+.section-two{
+    margin-top: 20px;
+}
+.section-two__desc{
+    margin-top: 10px;
+}
+.section-three{
+    background-color: #6462fd;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+    display : inline-block;
+    vertical-align: top;
+    height: 200px;
+}
+li{
+    list-style: none;
+
+}
+.section-four{
+    background-color: orange;
+    border-radius: 10px;
+    margin-top: 20px;
+    padding: 20px;
+    display: inline-block;
+    height: 200px;
+}
+li{
+    list-style: none;
+}
+.section-five{
+    background-color: black;
+    color: white;
+    display: inline-flexbox;
+    padding: 20px;
+    margin-top: 20px;
+}
+.section-six{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-size: 30px;
+    margin: 30px;
+
+}
+.section-six__name{
+    padding: 10px;
+}
+.section-six__home{
+    background-color: orangered;
+    color: white;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: 30px;
+}
+.section-seven{
+    font-size: 30px;
+    padding: 10px;
+    background-color: coral;
+    margin: 30px;
+}
+.section-eight{
+    font-size: 20px;
+    padding: 10px;
+    background-color: darkgray;
+    margin: 30px;
+}
+.section-eight__sm{
+    font-family: 'Trebuchet MS','Lucida Sans',Arial,sans-serif;
+    font-size: larger;
+}
+.section-eight__su{
+    font-size: large;
+    font-family: 'Segoe UI',Tahoma,Geneva,'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
